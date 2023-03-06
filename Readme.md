@@ -1,6 +1,6 @@
 # Example of GraphQL API using Express
 
-## List third party module
+## List of third party modules
 | Thrid Party | npm install |
 | ------ | ------ |
 | [Express] | npm i express  |
